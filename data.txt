@@ -1,0 +1,18 @@
+pytanie1?
+a)1dsja b)21312 c)opo
+c
+kolejne pytanie?
+a)allala b)qweqqw c)0000
+a
+trzecie pytanie?
+a)987 b)123 c)0101010
+b
+liczba pi jest rowna:
+a)3 b)3.12 c)3.14
+c
+ktory dzisiaj dzien?
+a)20 b)21 c)22
+b
+ile jest liczb naturalnych?
+a)0 b)nieskonczonnosc c)10
+c
